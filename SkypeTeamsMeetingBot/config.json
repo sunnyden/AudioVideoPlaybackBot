@@ -1,0 +1,16 @@
+﻿{
+  "BotName": "<bot_name>",
+  "AadAppId": "<azure_app_id>",
+  "AadAppSecret": "<azure_app_secret>",
+  "BotSignalingPort": 9441,
+  "CertificateThumbprint": "<https_certificate_thumbprint>",
+  "MediaStreamingPort": 13016,
+  "ServiceCname": "<domain_name>",
+  "ServiceDnsName": "<server_common_name>",
+  "H2641280X72030FpsFile": "MediaResources\\output720p.264",
+  "H2641920X1080VBSS15FpsFile": "MediaResources\\mle1080p15vbss_2500Kbps.264",
+  "H264320X18015FpsFile": "MediaResources\\output180p.264",
+  "H264640X36030FpsFile": "MediaResources\\output360p.264",
+  "AudioFileLocationFile": "MediaResources\\downsampled.wav",
+  "AudioVideoFileLengthInSec": 70
+}
